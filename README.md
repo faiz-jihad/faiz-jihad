@@ -315,20 +315,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- SIGNATURE WITH ENCRYPTED MESSAGE -->
-<div align="center">
-  <pre style="color: #6B5FF7; font-family: 'Courier New'; font-size: 12px; opacity: 0.7;">
-┌─────────────────────────────────────────────────────────┐
-│  © 2026 Faiz Jihad Al Baihaqi - Code Poet              │
-│  ─────────────────────────────────────────────────────  │
-│  "In a world of 0s and 1s, be a 1"                     │
-│                                                         │
-│  <span style="color: #00ff00;">01000110 01100001 01101001 01111010</span>                    │
-└─────────────────────────────────────────────────────────┘
-  </pre>
-</div>
-
-<!-- EASTER EGG - KONAMI CODE -->
-<div align="center" style="opacity: 0.3; font-size: 10px; color: #6B5FF7;">
-  ↑ ↑ ↓ ↓ ← → ← → B A [ENTER]
-</div>
