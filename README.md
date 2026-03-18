@@ -52,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ABOUT ME - CLEAN & SIMPLE -->
-<h2 align="center">🌱 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center" style="border: none;">
   <tr>
@@ -127,7 +127,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- GITHUB STATS - CLEAN -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
@@ -151,7 +151,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- PROJECTS - SIMPLE -->
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
   <table>
@@ -159,7 +159,7 @@
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <p align="center">
-          <i>Description of your amazing project</i><br/>
+          <i>TOKO RONI MOBILE POS</i><br/>
           <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
           <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         </p>
@@ -167,7 +167,7 @@
       <td width="50%">
         <h3 align="center">Project 2</h3>
         <p align="center">
-          <i>Description of another cool project</i><br/>
+          <i>DETECSION SKIN BY DREMLIP</i><br/>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
         </p>
@@ -182,7 +182,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- BLOG / WRITING - OPTIONAL -->
-<h2 align="center">✍️ Latest Writing</h2>
+<h2 align="center">Latest Writing</h2>
 
 <div align="center">
   <i>Coming soon...</i>
