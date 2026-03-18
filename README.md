@@ -181,11 +181,49 @@
 <!-- SOFT DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- BLOG / WRITING - OPTIONAL -->
-<h2 align="center">Latest Writing</h2>
+<!-- LATEST FROM MY BLOG -->
+<h2 align="center">📝 Latest from Techstarterid</h2>
 
 <div align="center">
-  <i>(https://techstarterid.blogspot.com/)</i>
+  <a href="https://techstarterid.blogspot.com">
+    <img src="https://img.shields.io/badge/BLOG-techstarterid-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://techstarterid.blogspot.com/2026/02/capek-minta-jajan-terus-ini-3-website.html">
+          <img src="https://img.shields.io/badge/💰-Cuan%20Sampingan-4CAF50" /><br/>
+          <b>Capek Minta Jajan?</b><br/>
+          <sub>3 Website penghasil uang buat mahasiswa</sub>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://techstarterid.blogspot.com/2026/02/mengapa-layar-hp-hanya-merespon-jari.html">
+          <img src="https://img.shields.io/badge/📱-Touchscreen-2196F3" /><br/>
+          <b>Kenapa Layar HP</b><br/>
+          <sub>Logika di balik teknologi touchscreen</sub>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://techstarterid.blogspot.com/2026/02/mau-jadi-web-developer-di-2026-ini.html">
+          <img src="https://img.shields.io/badge/🚀-Web%20Dev%202026-FF9800" /><br/>
+          <b>Panduan Web Developer</b><br/>
+          <sub>Mulai dari nol sampai jadi pro</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <a href="https://techstarterid.blogspot.com">
+      <img src="https://img.shields.io/badge/📖-Baca%20Selengkapnya-666666?style=for-the-badge" />
+    </a>
+  </p>
 </div>
 
 <br/>
