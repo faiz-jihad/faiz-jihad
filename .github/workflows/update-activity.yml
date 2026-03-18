@@ -1,0 +1,15 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Setiap jam
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # AMAN!
