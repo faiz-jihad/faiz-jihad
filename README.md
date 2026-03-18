@@ -80,7 +80,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- TECH STACK - MINIMALIST -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <b>Languages</b><br/>
@@ -185,7 +185,7 @@
 <h2 align="center">Latest Writing</h2>
 
 <div align="center">
-  <i>Coming soon...</i>
+  <i>(https://techstarterid.blogspot.com/)</i>
 </div>
 
 <br/>
