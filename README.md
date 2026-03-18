@@ -1,121 +1,121 @@
 <div align="center">
-  <!-- TETRIS-STYLE HEADER WITH ANIMATION -->
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A1F44,100:2A4F6E&height=200&section=header&text=🧩%20Faiz%20Jihad%20Al%20Baihaqi%20🧩&fontSize=45&fontColor=ffffff&animation=twinkling&desc=Tetris%20Master%20|%20Code%20Architect&descSize=18&descAlignY=65" width="100%"/>
+  <!-- MATRIX-STYLE HEADER WITH RAIN EFFECT -->
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:003300&height=200&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=45&fontColor=00ff00&animation=twinkling&desc=⡷⠂HACKER%20MIND⠐⢾&descSize=18&descAlignY=65&descColor=00cc00" width="100%"/>
   
-  <!-- TETRIS BLOCKS DECORATION -->
-  <pre>
-    🟦🟦🟦      🟥🟥      🟩🟩🟩🟩      🟨🟨
-    🟦          🟥🟥      🟩              🟨🟨
-    🟦🟦🟦      🟥🟥      🟩🟩🟩          🟨🟨
-    🟦          🟥🟥      🟩              🟨🟨
-    🟦          🟥🟥      🟩🟩🟩          🟨🟨
+  <!-- MATRIX RAIN ASCII -->
+  <pre style="color: #00ff00; font-family: 'Courier New', monospace; line-height: 1;">
+    ﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊
+    01000110 01100001 01101001 01111010 00100000 01001001 01110011 00100000 01001111 01101110 01101100 01101001 01101110 01100101
+    ════════════════════════════════════════════════════════════════════════════════════════════════════
+    01101000 01100001 01100011 01101011 01101001 01101110 01100111 00100000 01110100 01101000 01100101 00100000 01110011 01111001 01110011 01110100 01100101 01101101
+    ﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊﹊
   </pre>
 </div>
 
-<!-- INTERACTIVE GREETING WITH TETRIS THEME -->
+<!-- TERMINAL-STYLE GREETING -->
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  < Tetris Block Dropping In! >
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=%3E_+Hello,+I'm+Faiz" alt="Typing SVG" />
 </h3>
 
-<h4 align="center" style="color: #666; font-family: monospace;">
-  ──▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒──<br/>
-  🧩 Software Engineer | Tech Enthusiast | Problem Solver 🧩<br/>
-  ──▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒──
+<h4 align="center" style="color: #00ff00; font-family: 'Courier New', monospace;">
+  <pre>
+┌──[faiz@hackbox]─[~]
+└──╼ $ whoami
+<span style="color: #00ff00;">Software Engineer | Tech Enthusiast | Problem Solver</span>
+┌──[faiz@hackbox]─[~]
+└──╼ $ 
+  </pre>
 </h4>
 
-<!-- SOCIAL LINKS WITH TETRIS STYLE BADGES -->
+<!-- SOCIAL LINKS - HACKER STYLE -->
 <p align="center">
   <a href="https://linkedin.com/in/Faiz%20jihad%20al%20baihaqi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F44" />
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=003300" />
   </a>
   <a href="https://instagram.com/faizalbaihaqi_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=4A1F44" />
+    <img src="https://img.shields.io/badge/Instagram-00ff00?style=for-the-badge&logo=instagram&logoColor=black&labelColor=003300" />
   </a>
   <a href="mailto:faizalba74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" />
+    <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=003300" />
   </a>
   <a href="https://faiz-jihad.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2F4F4F" />
+    <img src="https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=003300" />
   </a>
 </p>
 
-<!-- PROFILE VIEWS WITH TETRIS COUNTER -->
+<!-- PROFILE VIEWS - HACKER COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faiz-jihad&label=🎮%20GAME%20OVER?%20NO!%20VIEWS&color=4e4376&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=faiz-jihad&label=🔒%20ACCESS%20LOG%20VIEWS&color=00ff00&style=for-the-badge" />
 </p>
 
 <br/>
 
-<!-- TETRIS HIGH SCORE BOARD -->
+<!-- MATRIX RAIN ANIMATION -->
 <div align="center">
-  <h2>🏆 TETRIS HIGH SCORE BOARD 🏆</h2>
-  <pre>
-╔══════════════════════════════════════════╗
-║                                          ║
-║   ████████  ███████  ████████  ███████   ║
-║   ██        ██    ██    ██     ██        ║
-║   ██████    ███████     ██     ███████   ║
-║   ██        ██  ██      ██          ██   ║
-║   ████████  ██   ██     ██     ███████   ║
-║                                          ║
-╠══════════════════════════════════════════╣
-║  🎯 CURRENT LEVEL:  SENIOR DEVELOPER     ║
-║  ⭐ LINES CLEARED:  10K+ Commits         ║
-║  🔥 HIGH SCORE:     Building Cool Stuff  ║
-║  🎮 NEXT BLOCK:     Cloud Architecture   ║
-╚══════════════════════════════════════════╝
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(90deg);"/>
+</div>
+
+<br/>
+
+<!-- HACKER TERMINAL QUOTE -->
+<div align="center">
+  <pre style="background: #0a0a0a; color: #00ff00; padding: 20px; border: 1px solid #00ff00; border-radius: 5px; font-family: 'Courier New';">
+╔══════════════════════════════════════════════════════════╗
+║  >_ cat quote.txt                                        ║
+║                                                          ║
+║  "The Matrix is everywhere. It is all around us.        ║
+║   Even now, in this very code. You can see it when      ║
+║   you look at your terminal or turn on your computer."  ║
+║                                                          ║
+║  -- Morpheus, The Matrix                                ║
+╚══════════════════════════════════════════════════════════╝
   </pre>
 </div>
 
 <br/>
 
-<!-- QUOTE WITH TETRIS THEME -->
-<div align="center">
-  <i>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px">
-    <b style="font-size: 18px;">"Coding is like Tetris: arrange your blocks perfectly before they stack up!"</b>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px">
-  </i>
-</div>
+<!-- SOFT DIVIDER - MATRIX STYLE -->
+<hr style="border: 1px solid #00ff00; box-shadow: 0 0 10px #00ff00;"/>
 
-<br/>
+<!-- ABOUT ME - TERMINAL STYLE -->
+<h2 align="center" style="color: #00ff00;">>_ SYSTEM INFORMATION</h2>
 
-<!-- SOFT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!-- ABOUT ME - TETRIS STYLE -->
-<h2 align="center">🎮 PLAYER INFO 🎮</h2>
-
-<table align="center" style="border: 2px solid #4e4376; border-radius: 10px;">
+<table align="center" style="border: 1px solid #00ff00; background: #0a0a0a; color: #00ff00; font-family: 'Courier New';">
   <tr>
-    <td width="60%" style="padding: 20px;">
-      <ul style="list-style-type: none; padding: 0; font-size: 16px;">
-        <li>📍 <b>SPAWN POINT:</b> Indonesia</li>
-        <li>💼 <b>CURRENT GAME:</b> Software Engineer</li>
-        <li>🎓 <b>SKILL TREE:</b> Computer Science</li>
-        <li>🌱 <b>LEVELING UP:</b> Cloud Architecture & Mobile Dev</li>
-        <li>💡 <b>POWER-UPS:</b> Web Dev, Cloud Computing, UI/UX</li>
-        <li>🎯 <b>FINAL BOSS:</b> Build meaningful applications</li>
-        <li>☕ <b>ENERGY SOURCE:</b> Coffee & Quiet coding sessions</li>
-      </ul>
-      
-      <!-- SKILL PROGRESS BARS -->
-      <h3>📊 SKILL PROGRESS:</h3>
+    <td width="60%" style="padding: 20px; border: 1px solid #00ff00;">
       <pre>
-React        🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
-Node.js      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
-Python       🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 70%
-TypeScript   🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 60%
-Cloud        🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50%
+┌────────────────────────────────────┐
+│  SYSTEM SPECIFICATIONS             │
+├────────────────────────────────────┤
+│  📍 LOCATION:      Indonesia       │
+│  💼 CURRENT:       Software Eng    │
+│  🎓 EDUCATION:     CompSci         │
+│  🌱 LEARNING:      Cloud & Mobile  │
+│  💡 INTERESTS:     Web, Cloud, UX  │
+│  🎯 GOAL:          Build Meaning   │
+│  ☕ FUEL:          Coffee & Code    │
+└────────────────────────────────────┘
+
+>_ cat skills.progress
+
+      SKILL MATRIX LOADING...
+      
+React     [██████████░░] 80%
+Node.js   [████████░░░░] 70%
+Python    [███████░░░░░] 65%
+TypeScript[██████░░░░░░] 60%
+Cloud     [█████░░░░░░░] 50%
       </pre>
     </td>
-    <td width="40%" align="center" style="padding: 20px;">
-      <!-- TETRIS ANIMATION GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
+    <td width="40%" align="center" style="border: 1px solid #00ff00;">
+      <!-- HACKER GIF -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M1YzM5YzQ2YzQ3YzQ3YzQ3YzQ3YzQ3YzQ3YzQ3/giphy.gif" width="250"/>
       <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=500&color=4E4376&center=true&vCenter=true&width=250&lines=LEVEL+UP!;CODE+COMPLETE!;BUG+FIXED!;COMMIT+PUSHED!" alt="Typing SVG" />
+      <pre style="color: #00ff00;">
+>_ ./hacker_mode.sh
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+ACCESS GRANTED
+      </pre>
     </td>
   </tr>
 </table>
@@ -123,116 +123,125 @@ Cloud        🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50%
 <br/>
 
 <!-- SOFT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00ff00; box-shadow: 0 0 10px #00ff00;"/>
 
-<!-- TECH STACK - TETRIS BLOCKS -->
-<h2 align="center">🧩 TECH STACK INVENTORY 🧩</h2>
-
-<p align="center">
-  <b>🎮 LANGUAGES:</b><br/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1A2F4F" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=1A3F4F" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A4F4F" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1A5F4F" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A6F4F" />
-</p>
+<!-- TECH STACK - HACKER STYLE -->
+<h2 align="center" style="color: #00ff00;">>_ TOOLKIT INVENTORY</h2>
 
 <p align="center">
-  <b>🎮 FRONTEND BLOCKS:</b><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1A7F4F" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1A8F4F" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1A9F4F" />
-</p>
-
-<p align="center">
-  <b>🎮 BACKEND BLOCKS:</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1AAF4F" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=1ABF4F" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1ACF4F" />
-</p>
-
-<!-- TETRIS BLOCKS SHOWCASE -->
-<div align="center">
-  <pre>
-    🟦  I-BLOCK  🟩  O-BLOCK  🟥  T-BLOCK  🟨  L-BLOCK
+  <pre style="background: #0a0a0a; color: #00ff00; padding: 20px; font-family: 'Courier New';">
+┌────────────────────────────────────────────────────────────────────────────┐
+│  LANGUAGES:                                                                │
+│  C++        [████████░░░░░░░░░░░░]  [⡷⠂ACTIVE⠐⢾]                         │
+│  Java       [███████░░░░░░░░░░░░░]                                        │
+│  Python     [██████████░░░░░░░░░░]  [⡷⠂PRIMARY⠐⢾]                       │
+│  JavaScript [███████████░░░░░░░░░]  [⡷⠂WEB⠐⢾]                           │
+│  TypeScript [████████░░░░░░░░░░░░]                                        │
+│  PHP        [█████░░░░░░░░░░░░░░░]                                        │
+│  Dart       [██████░░░░░░░░░░░░░░]                                        │
+├────────────────────────────────────────────────────────────────────────────┤
+│  FRONTEND:                                                                 │
+│  React      [██████████░░░░░░░░░░]                                        │
+│  Next.js    [███████░░░░░░░░░░░░░]                                        │
+│  Vue.js     [██████░░░░░░░░░░░░░░]                                        │
+├────────────────────────────────────────────────────────────────────────────┤
+│  BACKEND & DATABASE:                                                        │
+│  Node.js    [██████████░░░░░░░░░░]                                        │
+│  NestJS     [███████░░░░░░░░░░░░░]                                        │
+│  MySQL      [████████░░░░░░░░░░░░]                                        │
+│  PostgreSQL [███████░░░░░░░░░░░░░]                                        │
+│  MongoDB    [██████░░░░░░░░░░░░░░]                                        │
+├────────────────────────────────────────────────────────────────────────────┤
+│  CLOUD & TOOLS:                                                            │
+│  AWS        [███████░░░░░░░░░░░░░]                                        │
+│  Azure      [██████░░░░░░░░░░░░░░]                                        │
+│  GCP        [█████░░░░░░░░░░░░░░░]                                        │
+│  Docker     [████████░░░░░░░░░░░░]                                        │
+│  Git        [███████████░░░░░░░░░]                                        │
+│  Figma      [███████░░░░░░░░░░░░░]                                        │
+└────────────────────────────────────────────────────────────────────────────┘
   </pre>
-</div>
+</p>
 
 <br/>
 
 <!-- SOFT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00ff00; box-shadow: 0 0 10px #00ff00;"/>
 
-<!-- GITHUB STATS WITH TETRIS THEME -->
-<h2 align="center">📊 TETRIS STATISTICS 📊</h2>
+<!-- GITHUB STATS - HACKER STYLE -->
+<h2 align="center" style="color: #00ff00;">>_ SYSTEM METRICS</h2>
 
 <div align="center">
-  <!-- STATS CARDS WITH CUSTOM STYLE -->
-  <img src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=4e4376&icon_color=2b5876&text_color=2c3e50&bg_color=f0f0f0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&theme=vue-dark&hide_border=true&ring=4e4376&fire=2b5876&currStreakLabel=4e4376" width="48%" />
+  <pre style="background: #0a0a0a; color: #00ff00; padding: 20px; font-family: 'Courier New';">
+┌─────────────────────────────────────────────────────────────────────┐
+│  ╔═══════════════════════════════════════════════════════════════╗ │
+│  ║                    GITHUB ACTIVITY LOG                        ║ │
+│  ╠═══════════════════════════════════════════════════════════════╣ │
+│  ║  TOTAL COMMITS    : [██████████████████████░░░░]  1,234       ║ │
+│  ║  REPOSITORIES     : [████████████░░░░░░░░░░░░░░]  8           ║ │
+│  ║  FOLLOWERS        : [████████░░░░░░░░░░░░░░░░░░]  5           ║ │
+│  ║  STREAK STATUS    : [██████████████████████████]  ACTIVE      ║ │
+│  ╚═══════════════════════════════════════════════════════════════╝ │
+└─────────────────────────────────────────────────────────────────────┘
+  </pre>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=00cc00" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&theme=chartreuse-dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=0a0a0a" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- LANGUAGES STATS WITH CUSTOMIZATION -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&theme=vue-dark&hide_border=true&layout=compact&title_color=4e4376&text_color=2c3e50&bg_color=f0f0f0" width="45%" />
-  
-  <!-- TETRIS PROGRESS -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faiz_jihad&theme=vue-dark&hide_border=true&title_color=4e4376&text_color=2c3e50&bg_color=f0f0f0" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0a0a0a&title_color=00ff00&text_color=00cc00" width="45%" />
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH - TETRIS STYLE -->
+<!-- CONTRIBUTION GRAPH - HACKER STYLE -->
 <div align="center">
-  <h3>🎯 CONTRIBUTION TETRIS BOARD 🎯</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=faiz-jihad&theme=github-light&hide_border=true&area=true&color=4e4376&line=2b5876&point=4e4376&bg_color=f8f8f8" width="95%"/>
+  <pre style="background: #0a0a0a; color: #00ff00; padding: 10px; font-family: 'Courier New';">
+>_ Generating contribution matrix...
   
-  <!-- SNAKE GAME CONTRIBUTION (TETRIS VERSION) -->
-  <img src="https://github.com/faiz-jihad/faiz-jihad/blob/output/github-contribution-grid-snake.svg" width="95%"/>
+  ████░░░░████░░░░████░░░░████░░░░████
+  ░░████░░░░████░░░░████░░░░████░░░░██
+  ██░░████░░░░████░░░░████░░░░████░░░░
+  </pre>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=faiz-jihad&theme=github-dark&hide_border=true&area=true&color=00ff00&line=00ff00&point=00ff00&bg_color=0a0a0a" width="95%"/>
 </div>
 
 <!-- SOFT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00ff00; box-shadow: 0 0 10px #00ff00;"/>
 
-<!-- PROJECTS - TETRIS STYLE -->
-<h2 align="center">🎮 FEATURED PROJECTS 🎮</h2>
+<!-- PROJECTS - HACKER STYLE -->
+<h2 align="center" style="color: #00ff00;">>_ PROJECT DIRECTORY</h2>
 
 <div align="center">
-  <table style="border: 2px solid #4e4376;">
+  <table style="border: 1px solid #00ff00; background: #0a0a0a; color: #00ff00; font-family: 'Courier New';">
     <tr>
-      <td width="50%" style="border: 1px solid #4e4376; padding: 15px;">
-        <h3 align="center">📱 TOKO RONI MOBILE POS</h3>
-        <div align="center">
-          <pre>
-┌─────────────┐
-│  🟦  🟦  🟦 │
-│  🟦  🟦  🟦 │  LEVEL 1 COMPLETE
-│  🟦  🟦  🟦 │
-└─────────────┘
-          </pre>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-          <br/>
-          <sub>🟩 10K Lines Cleared</sub>
-        </div>
+      <td width="50%" style="padding: 20px; border: 1px solid #00ff00;">
+        <pre>
+┌──────────────────────────────┐
+│  PROJECT: TOKO RONI MOBILE   │
+│  TYPE: POS System            │
+│  STATUS: ████████░░ 80%      │
+│  STACK:                       │
+│  • React     [ACTIVE]        │
+│  • Node.js   [ACTIVE]        │
+└──────────────────────────────┘
+        </pre>
       </td>
-      <td width="50%" style="border: 1px solid #4e4376; padding: 15px;">
-        <h3 align="center">🔬 DETECSION SKIN BY DREMLIP</h3>
-        <div align="center">
-          <pre>
-┌─────────────┐
-│  🟨  🟨  🟥 │
-│  🟨  🟨  🟥 │  LEVEL 2 COMPLETE
-│  🟩  🟩  🟩 │
-└─────────────┘
-          </pre>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-          <br/>
-          <sub>🟨 5K Lines Cleared</sub>
-        </div>
+      <td width="50%" style="padding: 20px; border: 1px solid #00ff00;">
+        <pre>
+┌──────────────────────────────┐
+│  PROJECT: DETECSION SKIN     │
+│  TYPE: AI Detection          │
+│  STATUS: ██████░░░░ 60%      │
+│  STACK:                       │
+│  • Python    [ACTIVE]        │
+│  • Django    [ACTIVE]        │
+└──────────────────────────────┘
+        </pre>
       </td>
     </tr>
   </table>
@@ -241,48 +250,57 @@ Cloud        🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50%
 <br/>
 
 <!-- SOFT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00ff00; box-shadow: 0 0 10px #00ff00;"/>
 
-<!-- BLOG SECTION WITH TETRIS THEME -->
-<h2 align="center">📝 LATEST POWER-UPS (BLOG) 📝</h2>
+<!-- BLOG SECTION - HACKER STYLE -->
+<h2 align="center" style="color: #00ff00;">>_ LATEST LOG ENTRIES</h2>
 
 <div align="center">
   <a href="https://techstarterid.blogspot.com">
-    <img src="https://img.shields.io/badge/🎮-TECHSTARTERID%20BLOG-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=4e4376" />
+    <img src="https://img.shields.io/badge/🔒-ACCESS_BLOG-00ff00?style=for-the-badge&logo=blogger&logoColor=black&labelColor=003300" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <table style="border: 2px solid #4e4376;">
+  <table style="border: 1px solid #00ff00; background: #0a0a0a; color: #00ff00; font-family: 'Courier New';">
     <tr>
-      <td width="33%" align="center" style="padding: 10px;">
-        <a href="https://techstarterid.blogspot.com/2026/02/capek-minta-jajan-terus-ini-3-website.html" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/💰-LEVEL%20UP%20GUIDE-4CAF50" /><br/>
-          <b>Capek Minta Jajan?</b><br/>
-          <sub>3 Website penghasil uang buat mahasiswa</sub>
-          <br/>
-          <img src="https://img.shields.io/badge/🟨-NEW!-yellow?style=social" />
-        </a>
+      <td width="33%" align="center" style="padding: 10px; border: 1px solid #00ff00;">
+        <pre>
+┌──────────────────────┐
+│ [💰] CUAN SAMPINGAN │
+├──────────────────────┤
+│ 3 Website penghasil  │
+│ uang buat mahasiswa  │
+│                      │
+│ <span style="color: #00ff00;">[READ MORE]</span>          │
+└──────────────────────┘
+        </pre>
       </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <a href="https://techstarterid.blogspot.com/2026/02/mengapa-layar-hp-hanya-merespon-jari.html" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/📱-TECH%20SECRET-2196F3" /><br/>
-          <b>Kenapa Layar HP</b><br/>
-          <sub>Logika di balik teknologi touchscreen</sub>
-          <br/>
-          <img src="https://img.shields.io/badge/🟦-HOT!-blue?style=social" />
-        </a>
+      <td width="33%" align="center" style="padding: 10px; border: 1px solid #00ff00;">
+        <pre>
+┌──────────────────────┐
+│ [📱] TOUCHSCREEN     │
+├──────────────────────┤
+│ Logika di balik      │
+│ teknologi layar HP   │
+│                      │
+│ <span style="color: #00ff00;">[READ MORE]</span>          │
+└──────────────────────┘
+        </pre>
       </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <a href="https://techstarterid.blogspot.com/2026/02/mau-jadi-web-developer-di-2026-ini.html" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/🚀-CAREER%20BOOST-FF9800" /><br/>
-          <b>Panduan Web Developer</b><br/>
-          <sub>Mulai dari nol sampai jadi pro</sub>
-          <br/>
-          <img src="https://img.shields.io/badge/🟥-TRENDING!-red?style=social" />
-        </a>
+      <td width="33%" align="center" style="padding: 10px; border: 1px solid #00ff00;">
+        <pre>
+┌──────────────────────┐
+│ [🚀] WEB DEV 2026    │
+├──────────────────────┤
+│ Panduan dari nol     │
+│ sampai jadi pro      │
+│                      │
+│ <span style="color: #00ff00;">[READ MORE]</span>          │
+└──────────────────────┘
+        </pre>
       </td>
     </tr>
   </table>
@@ -291,53 +309,62 @@ Cloud        🟥🟥🟥🟥🟥⬜⬜⬜⬜⬜ 50%
 <br/>
 
 <!-- SOFT DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<hr style="border: 1px solid #00ff00; box-shadow: 0 0 10px #00ff00;"/>
 
-<!-- SUPPORT SECTION - TETRIS STYLE -->
-<h2 align="center">💙 SUPPORT THE PLAYER 💙</h2>
+<!-- SUPPORT SECTION - HACKER STYLE -->
+<h2 align="center" style="color: #00ff00;">>_ DONATE TO THE CAUSE</h2>
 
 <div align="center">
-  <p><i>Help me get more power-ups and continue the game!</i></p>
+  <pre style="background: #0a0a0a; color: #00ff00; padding: 20px; font-family: 'Courier New';">
+┌────────────────────────────────────┐
+│  >_ ./support_hacker.sh            │
+│                                    │
+│  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%      │
+│                                    │
+│  "Even hackers need coffee"        │
+│                                    │
+│  ╔══════════════════════════════╗  │
+│  ║  BTC: 3FZbgi29cpjq2GjdwV    ║  │
+│  ║  ETH: 0x4e9ce36e442e55ecd    ║  │
+│  ╚══════════════════════════════╝  │
+└────────────────────────────────────┘
+  </pre>
   
   <a href="https://paypal.me/@FaizAlba">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0A1F44" />
+    <img src="https://img.shields.io/badge/PayPal-00ff00?style=for-the-badge&logo=paypal&logoColor=black&labelColor=003300" />
   </a>
   <a href="https://www.buymeacoffee.com/faizjihad">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=8B4513" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-00ff00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=003300" />
   </a>
-  
-  <!-- TETRIS GAME INVITATION -->
-  <br/><br/>
-  <pre>
-    🎮 WANT TO PLAY TETRIS TOGETHER?
-    ─────────────────────────────
-    Press any key to continue...
-    Press F to pay respect
-    Press ⬆️ to rotate your career
-  </pre>
 </div>
 
 <br/>
 
-<!-- FOOTER WITH ANIMATION -->
+<!-- FOOTER - MATRIX STYLE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A1F44,100:2A4F6E&height=150&section=footer&text=GAME%20OVER?%20NO!%20CONTINUE%20CODING...&fontSize=25&fontColor=ffffff&animation=blinking" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0:00ff00,100:003300&height=150&section=footer&text=ACCESS%20GRANTED%20%7C%20SYSTEM%20ONLINE&fontSize=25&fontColor=00ff00&animation=blinking" width="100%"/>
 </div>
 
-<!-- SIGNATURE WITH TETRIS THEME -->
+<!-- SIGNATURE - HACKER STYLE -->
 <div align="center">
-  <sub>
-    <i>🎮 Keep calm and clear the lines! 🎮</i>
-    <br/>
-    <b>© 2026 Faiz Jihad Al Baihaqi - Tetris Master Edition</b>
-    <br/>
-    <img src="https://img.shields.io/badge/🟦🟥🟩🟨-GAME%20COMPLETE-4e4376?style=for-the-badge" />
-  </sub>
+  <pre style="color: #00ff00; font-family: 'Courier New';">
+>_ exit
+logout
+
+┌─────────────────────────────────────┐
+│  © 2026 Faiz Jihad Al Baihaqi       │
+│  ═══════════════════════════════════ │
+│  [SYSTEM SHUTDOWN]                   │
+│  Last login: [CURRENT_TIME]          │
+└─────────────────────────────────────┘
+
+<span style="color: #003300;">01000110 01100001 01101001 01111010 00100000 01101001 01110011 00100000 01100001 01101100 01110111 01100001 01111001 01110011 00100000 01101111 01101110 01101100 01101001 01101110 01100101</span>
+  </pre>
 </div>
 
-<!-- HIDDEN EASTER EGG (HOVER TO SEE) -->
-<div align="center" style="opacity: 0.5;">
-  <sub title="You found the secret block! 🎉">
-    ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️
-  </sub>
+<!-- EASTER EGG - KONAMI CODE -->
+<div align="center" style="opacity: 0.3;">
+  <pre style="color: #003300;">
+↑ ↑ ↓ ↓ ← → ← → B A [ENTER]
+  </pre>
 </div>
