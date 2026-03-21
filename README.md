@@ -1,332 +1,263 @@
 <div align="center">
-  <!-- NEBULA HEADER WITH STARS ANIMATION - IMPROVED GRADIENT -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,75:1a1a3a,100:0f0c29&height=300&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=50&fontColor=fff&animation=twinkling&desc=✨%20Fullstack%20Developer%20%7C%20Cloud%20Architect%20%7C%20UI/UX%20Enthusiast%20✨&descSize=18&descAlignY=70&fontAlignY=35" width="100%"/>
+  <!-- CALM OCEAN HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5f7a,50:2c7a5e,100:3a9b6e&height=250&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=✦%20Building%20peaceful%20digital%20experiences%20✦&descSize=16&descAlignY=65" width="100%"/>
   
-  <!-- ANIMATED TYPING SVG - MORE DYNAMIC -->
+  <!-- ANIMATED TYPING - CALM -->
   <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=800&color=6B5FF7&center=true&vCenter=true&width=600&lines=✦+Welcome+to+my+Digital+Universe+✦;✦+Fullstack+Developer+✦;✦+Cloud+Architect+✦;✦+UI%2FUX+Enthusiast+✦;✦+Problem+Solver+✦;✦+Code+Poet+✦" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&duration=3000&pause=500&color=4A9F8E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Faiz!;Fullstack+Developer;Cloud+Architect;UI%2FUX+Enthusiast;Welcome+to+my+space" alt="Typing SVG" />
   </h3>
 
-  <!-- SOCIAL BADGES - PREMIUM WITH HOVER EFFECTS -->
+  <!-- SOCIAL BADGES - SOFT COLORS -->
   <p align="center">
-    <a href="https://linkedin.com/in/Faiz%20jihad%20al%20baihaqi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29&color=0A66C2" />
+    <a href="https://linkedin.com/in/Faiz%20jihad%20al%20baihaqi">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/faizalbaihaqi_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29&color=E4405F" />
+    <a href="https://instagram.com/faizalbaihaqi_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="mailto:faizalba74@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29&color=D14836" />
+    <a href="mailto:faizalba74@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://faiz-jihad.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29&color=181717" />
+    <a href="https://faiz-jihad.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-2c7a5e?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
 
-  <!-- PROFILE VIEWS COUNTER - WITH ANIMATED GLOW -->
+  <!-- PROFILE VIEWS COUNTER -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=faiz-jihad&label=✨%20GALAXY%20VISITORS%20✨&color=6B5FF7&style=for-the-badge&abbreviated=true" />
+    <img src="https://komarev.com/ghpvc/?username=faiz-jihad&label=visitors&color=4A9F8E&style=for-the-badge" />
   </p>
 </div>
 
 <br/>
 
-<!-- 3D CONTRIBUTION SNAKE - WITH CUSTOM CSS -->
+<!-- WAVE DIVIDER -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faiz-jihad/faiz-jihad/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faiz-jihad/faiz-jihad/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/faiz-jihad/faiz-jihad/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 100%; border-radius: 20px; box-shadow: 0 0 20px rgba(107, 95, 247, 0.3);"/>
-  </picture>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
 
-<!-- QUOTE WITH NEBULA THEME - MORE ELEGANT -->
-<div align="center">
-  <table style="border: none; background: linear-gradient(135deg, rgba(15,12,41,0.9), rgba(36,36,62,0.9)); border-radius: 30px; padding: 15px 25px; width: 80%; backdrop-filter: blur(5px); box-shadow: 0 8px 32px 0 rgba(107, 95, 247, 0.2);">
-     <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-        <b style="color: #fff; font-size: 18px; font-family: 'Space Grotesk', monospace;"> 
-          "Code is like poetry written in the language of the universe."
-        </b>
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-       </td>
-     </tr>
-   </table>
-</div>
-
-<br/>
-
-<!-- ABOUT ME - INTERACTIVE TERMINAL STYLE WITH GLOW -->
+<!-- ABOUT ME SECTION -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-  <span style="color: #6B5FF7; text-shadow: 0 0 10px #6B5FF7;">🌌 ABOUT THE DEVELOPER 🌌</span>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
+  🌊 About Me
 </h2>
 
 <div align="center">
-  <table style="border: none; width: 90%;">
-     <tr>
-      <td width="60%" style="border: none;">
-        <pre style="background: rgba(15,12,41,0.8); color: #fff; padding: 25px; border-radius: 20px; font-family: 'Courier New', monospace; border: 1px solid #6B5FF7; backdrop-filter: blur(5px); box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-┌─────────────────────────────────────────────┐
-│  <span style="color: #6B5FF7;">➤ SYSTEM SPECIFICATIONS</span>                    │
-├─────────────────────────────────────────────┤
-│  📍 <span style="color: #87CEEB;">Location:</span>     Indonesia, Earth (🌏)         │
-│  💼 <span style="color: #87CEEB;">Current:</span>       Senior Software Engineer     │
-│  🎓 <span style="color: #87CEEB;">Education:</span>     Computer Science             │
-│  🌱 <span style="color: #87CEEB;">Learning:</span>      Cloud Architecture & Mobile  │
-│  💡 <span style="color: #87CEEB;">Interests:</span>     Web3, AI, UX Design         │
-│  🎯 <span style="color: #87CEEB;">Goal:</span>          Build Meaningful Solutions   │
-│  ☕ <span style="color: #87CEEB;">Fuel:</span>          Coffee & Code ☕              │
-└─────────────────────────────────────────────┘
-
-<span style="color: #6B5FF7;">>_ ./skills_progress.sh</span>
-<span style="color: #00ff00;">[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%</span>
-<span style="color: #87CEEB;">>_ System: Operational</span>
-<span style="color: #87CEEB;">>_ Ready for new challenges</span>
-        </pre>
-       </td>
-      <td width="40%" align="center" style="border: none;">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+  <table>
+    <tr>
+      <td width="60%">
         <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=6B5FF7&center=true&vCenter=true&width=300&lines=Status%3A+Online+%F0%9F%9A%80;Mood%3A+Creative+%F0%9F%8E%A8;Focus%3A+Building+the+future" alt="Status" />
-       </td>
-     </tr>
-   </table>
+        <p align="center">
+          I'm a passionate developer who believes in creating meaningful digital experiences. 
+          I enjoy solving problems and building applications that make a difference.
+        </p>
+        <br/>
+        <ul>
+          <li>📍 Based in Indonesia</li>
+          <li>💼 Software Engineer</li>
+          <li>🎓 Computer Science Graduate</li>
+          <li>🌱 Currently exploring Cloud Architecture</li>
+          <li>💡 Love building user-centered applications</li>
+          <li>☕ Coffee enthusiast & lifelong learner</li>
+        </ul>
+        <br/>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="120"/>
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=14&duration=2000&pause=500&color=4A9F8E&center=true&vCenter=true&width=200&lines=calm+%26+focused;always+learning" alt="Status" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- TECH STACK - WITH GLOWING ICONS -->
+<!-- WAVE DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+<!-- TECH STACK SECTION -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-  <span style="color: #6B5FF7; text-shadow: 0 0 10px #6B5FF7;">⚡ TECH STACK GALAXY ⚡</span>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
+  🛠️ Tech Stack
 </h2>
 
 <div align="center">
+  <br/>
   
-  <!-- LANGUAGES -->
-  <details open>
-    <summary style="color: #87CEEB; font-size: 20px; font-weight: bold;">🎯 LANGUAGES</summary>
-    <br/>
-    <p>
-      <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,php,dart" />
-    </p>
-  </details>
+  ### Languages
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </p>
 
-  <!-- FRONTEND -->
-  <details open>
-    <summary style="color: #87CEEB; font-size: 20px; font-weight: bold;">🎨 FRONTEND</summary>
-    <br/>
-    <p>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,figma" />
-    </p>
-  </details>
+  ### Frontend
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
 
-  <!-- BACKEND -->
-  <details open>
-    <summary style="color: #87CEEB; font-size: 20px; font-weight: bold;">⚙️ BACKEND & DATABASE</summary>
-    <br/>
-    <p>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,mongodb,prisma" />
-    </p>
-  </details>
+  ### Backend & Database
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
 
-  <!-- CLOUD & TOOLS -->
-  <details open>
-    <summary style="color: #87CEEB; font-size: 20px; font-weight: bold;">☁️ CLOUD & TOOLS</summary>
-    <br/>
-    <p>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,githubactions" />
-    </p>
-  </details>
+  ### Cloud & Tools
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
 </div>
 
 <br/>
 
-<!-- GITHUB STATS - ENHANCED -->
+<!-- WAVE DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+<!-- GITHUB STATS -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-  <span style="color: #6B5FF7; text-shadow: 0 0 10px #6B5FF7;">📊 GITHUB METRICS 📊</span>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
+  📊 GitHub Analytics
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&theme=radical&hide_border=false&border_radius=15&border_color=6B5FF7&count_private=true&include_all_commits=true&rank_icon=github&custom_title=🔥%20Galaxy%20Stats%20🔥&bg_color=0f0c29,302b63,24243e&title_color=6B5FF7&icon_color=87CEEB&text_color=fff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff00&title_color=2c7a5e&icon_color=4A9F8E&text_color=4a5568" width="48%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&theme=radical&hide_border=false&border_radius=15&border=6B5FF7&date_format=j%20M%5B%20Y%5D&background=0f0c29,302b63,24243e&ring=6B5FF7&fire=87CEEB&currStreakLabel=6B5FF7" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&theme=vue&hide_border=true&background=ffffff00&ring=2c7a5e&fire=4A9F8E&currStreakLabel=2c7a5e" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&theme=radical&hide_border=false&border_radius=15&border_color=6B5FF7&layout=compact&bg_color=0f0c29,302b63,24243e&title_color=6B5FF7&text_color=fff&langs_count=8" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faiz_jihad&theme=radical&hide_border=false&border_radius=15&border_color=6B5FF7&layout=compact&bg_color=0f0c29,302b63,24243e&title_color=6B5FF7&text_color=fff&custom_title=⚡%20Coding%20Activity%20⚡" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&theme=vue&hide_border=true&layout=compact&bg_color=ffffff00&title_color=2c7a5e&text_color=4a5568" width="45%" />
 </div>
 
 <br/>
 
-<!-- TROPHY CASE - ENHANCED -->
+<!-- WAVE DIVIDER -->
 <div align="center">
-  <h3 style="color: #6B5FF7; text-shadow: 0 0 5px #6B5FF7;">🏆 ACHIEVEMENT UNLOCKED 🏆</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=faiz-jihad&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=2&column=4&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,Reviews,Experience" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH - 3D EFFECT -->
-<div align="center">
-  <h3 style="color: #6B5FF7; text-shadow: 0 0 5px #6B5FF7;">💫 CONTRIBUTION GALAXY 💫</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiz-jihad&theme=react-dark&hide_border=false&border_color=6B5FF7&area=true&custom_title=💫%20Contribution%20Galaxy%20💫&bg_color=0f0c29&color=6B5FF7&line=87CEEB&point=fff&radius=15" width="95%"/>
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS - WITH METRICS -->
+<!-- FEATURED PROJECTS -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-  <span style="color: #6B5FF7; text-shadow: 0 0 10px #6B5FF7;">🚀 FEATURED PROJECTS 🚀</span>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
+  🌟 Featured Projects
 </h2>
 
 <div align="center">
-  <table style="width: 90%; border-collapse: separate; border-spacing: 15px;">
-     <tr>
-      <td width="50%" style="border: 1px solid #6B5FF7; border-radius: 20px; padding: 20px; background: linear-gradient(145deg, #0f0c29, #1a1a3a); box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-        <h3 align="center" style="color: #87CEEB;">📱 TOKO RONI MOBILE POS</h3>
-        <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📱 Toko Roni Mobile POS</h3>
+        <p>Point of Sale system with real-time inventory management</p>
+        <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-          <br/><br/>
-          <p style="color: #fff;">Point of Sale system for mobile with real-time inventory management</p>
-          <div style="background: #0f0c29; color: #00ff00; padding: 8px; border-radius: 10px; font-family: monospace; font-size: 12px;">
-            >_ git clone https://github.com/faiz-jihad/toko-roni-mobile
-          </div>
-          <br/>
-          <a href="https://github.com/faiz-jihad/toko-roni-mobile" style="color: #6B5FF7; text-decoration: none;">🔗 View Repository →</a>
-        </div>
-       </td>
-      <td width="50%" style="border: 1px solid #6B5FF7; border-radius: 20px; padding: 20px; background: linear-gradient(145deg, #0f0c29, #1a1a3a); box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-        <h3 align="center" style="color: #87CEEB;">🔬 DETECSION SKIN BY DREMLIP</h3>
-        <div align="center">
+        </p>
+        <a href="https://github.com/faiz-jihad/toko-roni-mobile">
+          <img src="https://img.shields.io/badge/View_Project-2c7a5e?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🔬 Skin Disease Detection</h3>
+        <p>AI-powered skin disease detection using deep learning</p>
+        <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-          <br/><br/>
-          <p style="color: #fff;">AI-powered skin disease detection using deep learning</p>
-          <div style="background: #0f0c29; color: #00ff00; padding: 8px; border-radius: 10px; font-family: monospace; font-size: 12px;">
-            >_ pip install -r requirements.txt && python train.py
-          </div>
-          <br/>
-          <a href="https://github.com/faiz-jihad/detecsion-skin" style="color: #6B5FF7; text-decoration: none;">🔗 View Repository →</a>
-        </div>
-       </td>
-     </tr>
-   </table>
+        </p>
+        <a href="https://github.com/faiz-jihad/detecsion-skin">
+          <img src="https://img.shields.io/badge/View_Project-2c7a5e?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- LATEST BLOG POSTS - DYNAMIC -->
+<!-- BLOG SECTION -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-  <span style="color: #6B5FF7; text-shadow: 0 0 10px #6B5FF7;">📝 LATEST FROM TECHSTARTERID 📝</span>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
+  📝 Latest Articles
 </h2>
 
 <div align="center">
-  <a href="https://techstarterid.blogspot.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌌-VISIT%20MY%20BLOG-6B5FF7?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0f0c29" />
+  <a href="https://techstarterid.blogspot.com">
+    <img src="https://img.shields.io/badge/Visit_My_Blog-2c7a5e?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <table style="width: 90%; border-collapse: separate; border-spacing: 15px;">
-     <tr>
-      <td width="33%" align="center" style="border: 1px solid #6B5FF7; border-radius: 20px; padding: 20px; background: linear-gradient(145deg, #0f0c29, #1a1a3a);">
-        <a href="https://techstarterid.blogspot.com/2026/02/capek-minta-jajan-terus-ini-3-website.html" style="text-decoration: none;">
-          <div style="background: rgba(107, 95, 247, 0.2); border-radius: 50px; display: inline-block; padding: 5px 15px; margin-bottom: 10px;">
-            <span style="color: #4CAF50;">💰 Cuan Sampingan</span>
-          </div>
-          <br/>
-          <b style="color: #87CEEB; font-size: 18px;">Capek Minta Jajan?</b><br/>
-          <sub style="color: #fff;">3 Website penghasil uang buat mahasiswa</sub>
-          <br/><br/>
-          <img src="https://img.shields.io/badge/📅-2%20days%20ago-6B5FF7?style=flat" />
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://techstarterid.blogspot.com/2026/02/capek-minta-jajan-terus-ini-3-website.html">
+          <b>💰 Make Money Online</b><br/>
+          <sub>3 websites for students to earn</sub>
         </a>
-       </td>
-      <td width="33%" align="center" style="border: 1px solid #6B5FF7; border-radius: 20px; padding: 20px; background: linear-gradient(145deg, #0f0c29, #1a1a3a);">
-        <a href="https://techstarterid.blogspot.com/2026/02/mengapa-layar-hp-hanya-merespon-jari.html" style="text-decoration: none;">
-          <div style="background: rgba(107, 95, 247, 0.2); border-radius: 50px; display: inline-block; padding: 5px 15px; margin-bottom: 10px;">
-            <span style="color: #2196F3;">📱 Touchscreen</span>
-          </div>
-          <br/>
-          <b style="color: #87CEEB; font-size: 18px;">Kenapa Layar HP</b><br/>
-          <sub style="color: #fff;">Logika di balik teknologi touchscreen</sub>
-          <br/><br/>
-          <img src="https://img.shields.io/badge/📅-1%20week%20ago-6B5FF7?style=flat" />
+      </td>
+      <td width="33%" align="center">
+        <a href="https://techstarterid.blogspot.com/2026/02/mengapa-layar-hp-hanya-merespon-jari.html">
+          <b>📱 Touchscreen Technology</b><br/>
+          <sub>How your phone screen works</sub>
         </a>
-       </td>
-      <td width="33%" align="center" style="border: 1px solid #6B5FF7; border-radius: 20px; padding: 20px; background: linear-gradient(145deg, #0f0c29, #1a1a3a);">
-        <a href="https://techstarterid.blogspot.com/2026/02/mau-jadi-web-developer-di-2026-ini.html" style="text-decoration: none;">
-          <div style="background: rgba(107, 95, 247, 0.2); border-radius: 50px; display: inline-block; padding: 5px 15px; margin-bottom: 10px;">
-            <span style="color: #FF9800;">🚀 Web Dev 2026</span>
-          </div>
-          <br/>
-          <b style="color: #87CEEB; font-size: 18px;">Panduan Web Developer</b><br/>
-          <sub style="color: #fff;">Mulai dari nol sampai jadi pro</sub>
-          <br/><br/>
-          <img src="https://img.shields.io/badge/📅-2%20weeks%20ago-6B5FF7?style=flat" />
+      </td>
+      <td width="33%" align="center">
+        <a href="https://techstarterid.blogspot.com/2026/02/mau-jadi-web-developer-di-2026-ini.html">
+          <b>🚀 Web Development 2026</b><br/>
+          <sub>Complete beginner guide</sub>
         </a>
-       </td>
-     </tr>
-   </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- SUPPORT SECTION - INTERACTIVE -->
+<!-- SUPPORT SECTION -->
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
-  <span style="color: #6B5FF7; text-shadow: 0 0 10px #6B5FF7;">💙 SUPPORT THE JOURNEY 💙</span>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30px"/>
+  🤝 Support My Work
 </h2>
 
 <div align="center">
-  <table style="width: 70%; background: linear-gradient(135deg, #0f0c29, #1a1a3a); border: 1px solid #6B5FF7; border-radius: 30px; padding: 25px; box-shadow: 0 8px 32px 0 rgba(107, 95, 247, 0.3);">
-     <tr>
-      <td align="center">
-        <p style="color: #87CEEB; font-size: 18px;"><i>"Every coffee helps me code through the night"</i> ☕</p>
-        <br/>
-        <a href="https://paypal.me/@FaizAlba" target="_blank">
-          <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=0f0c29&color=00457C" />
-        </a>
-        <a href="https://www.buymeacoffee.com/faizjihad" target="_blank">
-          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0f0c29&color=FFDD00" />
-        </a>
-        <a href="https://github.com/sponsors/faiz-jihad" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0f0c29&color=30363D" />
-        </a>
-       </td>
-     </tr>
-   </table>
+  <p>If you find my work helpful, consider supporting me ☕</p>
+  <br/>
+  <a href="https://paypal.me/@FaizAlba">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+  <a href="https://www.buymeacoffee.com/faizjihad">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </div>
 
 <br/>
 
-<!-- FOOTER WITH GALAXY EFFECT - ENHANCED -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,25:302b63,50:0f0c29,75:302b63,100:24243e&height=200&section=footer&text=✨%20Thanks%20for%20visiting%20my%20universe!%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
-  <br/><br/>
-  <p style="color: #6B5FF7;">
-    <i>Made with 💙 by Faiz Jihad Al Baihaqi</i>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a9b6e,50:2c7a5e,100:1a5f7a&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" width="100%"/>
+  <br/>
+  <p>Made with 💙 by Faiz Jihad Al Baihaqi</p>
 </div>
