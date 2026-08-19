@@ -1,43 +1,229 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:111827&height=190&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Developer%20%7C%20Informatics%20Engineering%20Student&descSize=15&descColor=94A3B8&descAlignY=60"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:05070B,50:0B1120,100:111827&height=230&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=41&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Applied%20AI&descSize=15&descColor=94A3B8&descAlignY=60"
 width="100%"
 />
 
-<p>
-  <a href="https://linkedin.com/in/faiz-jihad-al-baihaqi-08a947321">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:faizalba74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://faiz-jihad.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://linkedin.com/in/faiz-jihad-al-baihaqi-08a947321">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:faizalba74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://faiz-jihad.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>Indonesia · Informatics Engineering · Backend Development</sub>
 
 </div>
 
 ---
 
-## About
+## Profile
 
-Backend developer and Informatics Engineering student at **Politeknik Negeri Indramayu**.
+I’m Faiz, an Informatics Engineering student at **Politeknik Negeri Indramayu** with a strong focus on backend engineering and applied technology.
 
-Most of my work revolves around backend systems, REST APIs, database design, internal business applications, and applied AI integration.
+Most of my work is centered around designing application flows, building backend services, structuring databases, integrating APIs, and developing systems that are used for real operational needs.
 
-Currently working with **Laravel, PHP, MySQL, Flutter, Python, and REST API architectures**.
+My current stack is primarily **Laravel, PHP, MySQL, REST API, Flutter, Python, and applied AI tools**.
 
-I prefer building systems with clear business flows, structured code, predictable data handling, and interfaces that are actually practical to use.
+<table>
+<tr>
+<td width="25%">
 
-```text
-Based in       Indonesia
-Education      D3 Informatics Engineering
-Institution    Politeknik Negeri Indramayu
-Graduation     2027
-Main Focus     Backend Engineering
+**Focus**
+
+Backend Engineering
+
+</td>
+<td width="25%">
+
+**Current Role**
+
+Backend Developer
+
+</td>
+<td width="25%">
+
+**Education**
+
+D3 Informatics Engineering
+
+</td>
+<td width="25%">
+
+**Graduation**
+
+2027
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### P.A.D.I.
+
+#### Predictive Agriculture & Disease Intelligence
+
+An agritech system designed to support rice farmers throughout operational and cultivation processes.
+
+**Scope**
+
+* Disease detection
+* Treatment recommendations
+* Fertilizer calculation
+* Planting cycle support
+* Agricultural monitoring
+* Community alerts
+* Farmer-facing mobile application
+
+<br/>
+
+`Laravel` `Flutter` `MySQL` `AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ERP Tembakau
+
+#### Enterprise Operational Management System
+
+A business system covering the operational flow of tobacco processing and administration.
+
+**Scope**
+
+* Gate & queue
+* Supplier management
+* Grading
+* Quality control
+* Warehouse
+* Payroll
+* Invoice & payment
+* Audit trail
+* OCR workflow
+
+<br/>
+
+`Laravel` `React` `MySQL` `REST API`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,js,ts,react,flutter,mysql,postgres,docker,git,github,linux&theme=dark"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
+
+`PHP`
+`Laravel`
+`REST API`
+`FastAPI`
+`Authentication`
+`Authorization`
+`Service Layer`
+`Database Transactions`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Data & Infrastructure
+
+`MySQL`
+`PostgreSQL`
+`Database Design`
+`Docker`
+`Linux`
+`Git`
+`GitHub`
+`Deployment`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Applied AI
+
+`OCR`
+`Computer Vision`
+`Gemini API`
+`Generative AI`
+`Machine Learning`
+`AI Integration`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Principles
+
+```text id="k2r9mv"
+Business Requirement
+        │
+        ▼
+   System Flow
+        │
+        ▼
+   Data Model
+        │
+        ▼
+  Domain Logic
+        │
+        ▼
+       API
+        │
+        ▼
+   Validation
+        │
+        ▼
+     Testing
+        │
+        ▼
+   Production
 ```
+
+I tend to prioritize:
+
+* clear business flow
+* consistent project structure
+* reliable data validation
+* transactional integrity
+* readable backend logic
+* predictable API behavior
+* proper error handling
+* maintainability over unnecessary complexity
 
 ---
 
@@ -48,220 +234,62 @@ Main Focus     Backend Engineering
 **IT Solution Yogyakarta**
 `Jul 2026 — Present`
 
-Working on backend development for business applications using Laravel and MySQL.
+Building and maintaining backend services using Laravel, REST APIs, and MySQL.
 
-Main responsibilities include:
-
-* Backend feature development
-* REST API implementation
-* Database structure and queries
-* Data validation
-* Database transaction handling
-* Bug fixing and maintenance
-* Supporting production-ready application workflows
+Work includes backend feature development, business logic implementation, database operations, API development, validation, bug fixing, and application maintenance.
 
 ---
 
-## Selected Work
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### P.A.D.I.
-
-**Predictive Agriculture & Disease Intelligence**
-
-Agricultural platform designed for rice farmers, combining field monitoring and intelligent assistance in one system.
-
-Key areas:
-
-* Rice disease detection
-* Disease treatment recommendations
-* Fertilizer calculation
-* Planting cycle support
-* Agricultural data
-* Farmer community alerts
-* Mobile and backend integration
-
-**Stack**
-
-`Laravel` `Flutter` `MySQL` `AI/ML`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ERP Tembakau
-
-Business operation system for tobacco processing workflows.
-
-The system covers operational flows from gate entry to warehouse and financial administration.
-
-Key areas:
-
-* Gate & queue
-* Supplier management
-* Tobacco grading
-* Quality control
-* Warehouse
-* Payroll
-* Invoice & payment
-* Audit trail
-* OCR integration
-
-**Stack**
-
-`Laravel` `React` `MySQL` `REST API`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Current Technical Focus
+## Leadership
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### Backend
-
-* Laravel
-* PHP
-* REST API
-* Authentication
-* Authorization
-* Service layer
-* Validation
-* Transactions
-
-</td>
-
-<td width="33%" valign="top">
-
-### Data
-
-* MySQL
-* PostgreSQL
-* Database design
-* Query optimization
-* Data integrity
-* Relational modeling
-
-</td>
-
-<td width="33%" valign="top">
-
-### Applied AI
-
-* OCR
-* Computer Vision
-* Generative AI
-* Gemini API
-* AI integration
-* ML fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs&theme=dark" />
-
-<br/><br/>
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,flutter&theme=dark" />
-
-<br/><br/>
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,linux&theme=dark" />
-
-</div>
-
----
-
-## Engineering Approach
-
-```text
-Requirement
-    ↓
-Business Flow
-    ↓
-Data Model
-    ↓
-Service / Domain Logic
-    ↓
-API / Interface
-    ↓
-Validation
-    ↓
-Testing
-    ↓
-Deployment
-```
-
-My usual priorities when working on a system:
-
-* Keep business logic separated from presentation logic
-* Avoid unnecessary coupling
-* Validate input before processing
-* Use transactions for multi-step database operations
-* Keep naming and folder structure consistent
-* Design APIs around actual application flows
-* Treat database integrity as part of application design
-* Make error handling understandable for both developers and users
-
----
-
-## Leadership & Activities
 
 ### Google Student Ambassador Indonesia
 
 `2026 — Present`
 
-Participating in technology and AI literacy initiatives within the student community and helping connect campus communities with relevant technology programs.
+Technology and AI literacy initiatives within student communities.
+
+</td>
+
+<td width="33%" valign="top">
 
 ### Campus Expo 2026
 
-**Media Branding Division Lead**
+**Media Branding Lead**
 
-Responsible for media planning, communication, and event branding.
+Media strategy, branding, and communication.
 
-### Forum OSIS Jawa Barat — SCORE
+</td>
 
-**Publication, Decoration & Documentation Division Lead**
+<td width="33%" valign="top">
 
-Managed publication and documentation activities for regional student programs.
+### Forum OSIS Jawa Barat
+
+**Publication & Documentation Lead**
+
+Communication and regional student program documentation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+## GitHub Overview
 
 <div align="center">
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8&icon_color=38BDF8"
+src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&hide_border=true&bg_color=05070B&title_color=F8FAFC&text_color=94A3B8&icon_color=CBD5E1"
 />
 
 <img
 width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
+src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&hide_border=true&background=05070B&ring=CBD5E1&fire=CBD5E1&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=64748B"
 />
 
 </div>
@@ -271,26 +299,53 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&hide_bord
 <div align="center">
 
 <img
-width="45%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&layout=compact&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8"
+width="43%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&layout=compact&hide_border=true&bg_color=05070B&title_color=F8FAFC&text_color=94A3B8"
 />
 
 </div>
 
 ---
 
-## Open to
+## Current Direction
 
-Backend development, collaborative projects, hackathons, applied AI projects, agritech, enterprise systems, and open-source development.
+```text id="9hx52d"
+Backend Systems
+      +
+Applied Artificial Intelligence
+      +
+Real Operational Problems
+      =
+Products that are practical to use
+```
 
-For collaboration or project discussions:
+Current areas I’m interested in:
 
-**[faizalba74@gmail.com](mailto:faizalba74@gmail.com)**
+`Backend Engineering` · `Enterprise Systems` · `Agritech` · `Applied AI` · `Automation` · `Mobile Systems`
+
+---
 
 <div align="center">
 
+### Available for collaboration
+
+Backend development · Hackathons · Applied AI · Agritech · Enterprise software
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:111827&height=80&section=footer" width="100%"/>
+<a href="mailto:faizalba74@gmail.com">
+  <img src="https://img.shields.io/badge/Start_a_Conversation-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/><br/>
+
+<sub>Faiz Jihad Al Baihaqi · Indonesia</sub>
+
+<br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0B1120,100:05070B&height=70&section=footer"
+width="100%"
+/>
 
 </div>
