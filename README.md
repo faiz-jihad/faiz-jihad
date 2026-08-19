@@ -1,280 +1,296 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:16A34A&height=230&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Software%20Engineer%20%7C%20Technology%20Builder&descSize=16&descAlignY=65" width="100%"/>
-
-### Building reliable digital systems with real-world impact
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:111827&height=190&section=header&text=Faiz%20Jihad%20Al%20Baihaqi&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Developer%20%7C%20Informatics%20Engineering%20Student&descSize=15&descColor=94A3B8&descAlignY=60"
+width="100%"
+/>
 
 <p>
   <a href="https://linkedin.com/in/faiz-jihad-al-baihaqi-08a947321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:faizalba74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://faiz-jihad.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=faiz-jihad&label=Profile%20Views&color=0f766e&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm **Faiz Jihad Al Baihaqi**, a Diploma III Informatics Engineering student at **Politeknik Negeri Indramayu** and a backend developer focused on building reliable, scalable, and impactful digital systems.
+Backend developer and Informatics Engineering student at **Politeknik Negeri Indramayu**.
 
-My main interests include **backend engineering, REST API architecture, database design, applied artificial intelligence, cloud computing, and digital product development**.
+Most of my work revolves around backend systems, REST APIs, database design, internal business applications, and applied AI integration.
 
-I enjoy transforming real-world problems into structured software solutions—from agriculture and enterprise operations to automation and intelligent systems.
+Currently working with **Laravel, PHP, MySQL, Flutter, Python, and REST API architectures**.
 
-Currently, I am strengthening my experience in professional backend development while continuing to build technology products with measurable social and operational impact.
+I prefer building systems with clear business flows, structured code, predictable data handling, and interfaces that are actually practical to use.
 
-```yaml
-name: Faiz Jihad Al Baihaqi
-location: Indonesia
-education: D3 Informatics Engineering
-institution: Politeknik Negeri Indramayu
-expected_graduation: 2027
-focus:
-  - Backend Engineering
-  - REST API Architecture
-  - Applied AI
-  - Cloud Computing
-  - Software Architecture
-currently_learning:
-  - Scalable Backend Architecture
-  - Cloud Infrastructure
-  - AI Integration
+```text
+Based in       Indonesia
+Education      D3 Informatics Engineering
+Institution    Politeknik Negeri Indramayu
+Graduation     2027
+Main Focus     Backend Engineering
 ```
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
-### Backend Developer — IT Solution Yogyakarta
+### Backend Developer
 
-`July 2026 — Present`
+**IT Solution Yogyakarta**
+`Jul 2026 — Present`
 
-* Developing and maintaining backend services using **PHP, Laravel, RESTful APIs, and MySQL**.
-* Building modular and maintainable application architecture.
-* Implementing validation, database transactions, and structured business logic.
-* Improving system reliability and backend maintainability for business applications.
+Working on backend development for business applications using Laravel and MySQL.
 
----
+Main responsibilities include:
 
-## 🚀 Featured Projects
-
-### 🌾 P.A.D.I. — Predictive Agriculture & Disease Intelligence
-
-An agritech platform designed to support rice farmers through intelligent agricultural assistance.
-
-**Key capabilities:**
-
-* AI-assisted rice disease detection from plant images.
-* Disease treatment recommendations.
-* Fertilizer requirement calculation.
-* Community-based agricultural alerts.
-* Agricultural monitoring and decision support.
-* Laravel–Flutter based application architecture.
-
-**Focus:** Agritech · Applied AI · Smart Farming · Community Intelligence
+* Backend feature development
+* REST API implementation
+* Database structure and queries
+* Data validation
+* Database transaction handling
+* Bug fixing and maintenance
+* Supporting production-ready application workflows
 
 ---
 
-### 🏭 ERP Tembakau
+## Selected Work
 
-Enterprise Resource Planning system designed to digitalize tobacco operational workflows.
+<table>
+<tr>
 
-**Core modules include:**
+<td width="50%" valign="top">
 
-* Gate & queue management
+### P.A.D.I.
+
+**Predictive Agriculture & Disease Intelligence**
+
+Agricultural platform designed for rice farmers, combining field monitoring and intelligent assistance in one system.
+
+Key areas:
+
+* Rice disease detection
+* Disease treatment recommendations
+* Fertilizer calculation
+* Planting cycle support
+* Agricultural data
+* Farmer community alerts
+* Mobile and backend integration
+
+**Stack**
+
+`Laravel` `Flutter` `MySQL` `AI/ML`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ERP Tembakau
+
+Business operation system for tobacco processing workflows.
+
+The system covers operational flows from gate entry to warehouse and financial administration.
+
+Key areas:
+
+* Gate & queue
+* Supplier management
 * Tobacco grading
 * Quality control
-* Warehouse management
-* Employee & labor payroll
-* Operational audit trail
-* OCR integration for KTP and vehicle license plates
+* Warehouse
+* Payroll
+* Invoice & payment
+* Audit trail
+* OCR integration
 
-**Engineering implementation:**
+**Stack**
+
+`Laravel` `React` `MySQL` `REST API`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Current Technical Focus
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
 
 * Laravel
-* MySQL
+* PHP
 * REST API
-* Database transactions
-* Layered validation
-* Modular backend architecture
+* Authentication
+* Authorization
+* Service layer
+* Validation
+* Transactions
 
-**Focus:** Enterprise Software · Process Automation · Backend Engineering
+</td>
+
+<td width="33%" valign="top">
+
+### Data
+
+* MySQL
+* PostgreSQL
+* Database design
+* Query optimization
+* Data integrity
+* Relational modeling
+
+</td>
+
+<td width="33%" valign="top">
+
+### Applied AI
+
+* OCR
+* Computer Vision
+* Generative AI
+* Gemini API
+* AI integration
+* ML fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔬 AI Disease Detection
+## Tech Stack
 
-Computer vision experimentation focused on image-based disease classification.
+<div align="center">
 
-**Technologies:**
+### Backend
 
-`Python` · `TensorFlow` · `Deep Learning` · `Computer Vision`
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs&theme=dark" />
 
----
-
-## 🛠 Technology Stack
-
-### Backend Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs"/>
-</p>
+<br/><br/>
 
 ### Frontend & Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,flutter"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,flutter&theme=dark" />
 
-### Database
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-</p>
+### Database & Infrastructure
 
-### Infrastructure & Development Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github,linux&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,figma"/>
-</p>
-
-### AI & Emerging Technology
-
-<p>
-
-`Google Gemini` · `Generative AI` · `Machine Learning Fundamentals` · `Computer Vision` · `Cloud Computing`
-
-</p>
+</div>
 
 ---
 
-## 🧠 Engineering Interests
+## Engineering Approach
 
 ```text
-Backend Engineering
-├── REST API Design
-├── Database Architecture
-├── Authentication & Authorization
-├── Transaction Management
-├── Clean Architecture
-├── Business Logic Design
-└── Performance & Reliability
-
-Applied Artificial Intelligence
-├── Computer Vision
-├── OCR
-├── Generative AI
-├── AI-assisted Decision Systems
-└── Intelligent Automation
-
-Product Engineering
-├── Agritech
-├── Enterprise Systems
-├── Mobile Applications
-└── Digital Transformation
+Requirement
+    ↓
+Business Flow
+    ↓
+Data Model
+    ↓
+Service / Domain Logic
+    ↓
+API / Interface
+    ↓
+Validation
+    ↓
+Testing
+    ↓
+Deployment
 ```
+
+My usual priorities when working on a system:
+
+* Keep business logic separated from presentation logic
+* Avoid unnecessary coupling
+* Validate input before processing
+* Use transactions for multi-step database operations
+* Keep naming and folder structure consistent
+* Design APIs around actual application flows
+* Treat database integrity as part of application design
+* Make error handling understandable for both developers and users
 
 ---
 
-## 🎯 Leadership & Community
-
-Beyond software development, I am actively involved in technology education, communication, and student leadership.
+## Leadership & Activities
 
 ### Google Student Ambassador Indonesia
 
 `2026 — Present`
 
-Supporting digital and AI literacy among students while connecting university communities with opportunities and technology initiatives within the Google ecosystem.
+Participating in technology and AI literacy initiatives within the student community and helping connect campus communities with relevant technology programs.
 
-### Campus Expo 2026 — Media Branding Division Lead
+### Campus Expo 2026
 
-Led media planning and communication identity to support educational outreach and university preparation initiatives.
+**Media Branding Division Lead**
 
-### Forum OSIS Jawa Barat — Publication, Decoration & Documentation Lead
+Responsible for media planning, communication, and event branding.
 
-Coordinated event communication, publication, and documentation activities across student communities.
+### Forum OSIS Jawa Barat — SCORE
 
----
+**Publication, Decoration & Documentation Division Lead**
 
-## 📚 Certifications & Programs
-
-* Google Student Ambassador Programme
-* Fakultas Bersertifikasi Gemini
-* Fundamentals & Applications of Generative AI
-* Career Acceleration and Productivity with Gemini
-* Basic Learning AI
+Managed publication and documentation activities for regional student programs.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=faiz-jihad&show_icons=true&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8&icon_color=38BDF8"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&hide_border=true&theme=transparent"/>
+<img
+width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=faiz-jihad&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
+/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&layout=compact&hide_border=true&theme=transparent"/>
+<img
+width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz-jihad&layout=compact&hide_border=true&bg_color=00000000&title_color=E2E8F0&text_color=94A3B8"
+/>
 
 </div>
 
 ---
 
-## 🌱 What I'm Working Toward
+## Open to
 
-My long-term goal is to build technology that goes beyond functioning software.
+Backend development, collaborative projects, hackathons, applied AI projects, agritech, enterprise systems, and open-source development.
 
-I want to develop systems that are:
+For collaboration or project discussions:
 
-* **Reliable** enough for real-world operations.
-* **Scalable** enough to grow with their users.
-* **Accessible** enough to benefit broader communities.
-* **Intelligent** enough to support better decision-making.
-* **Impact-driven** enough to solve meaningful problems.
-
-I am particularly interested in the intersection of **software engineering, artificial intelligence, agriculture, enterprise systems, and digital transformation**.
-
----
-
-## 🤝 Let's Collaborate
-
-I'm open to collaborating on:
-
-* Backend development
-* Laravel projects
-* REST API architecture
-* Artificial intelligence applications
-* Agritech
-* Enterprise systems
-* Hackathons
-* Research & technology competitions
-* Open-source projects
-
-If you're building something meaningful, feel free to reach out.
+**[faizalba74@gmail.com](mailto:faizalba74@gmail.com)**
 
 <div align="center">
 
-### Let's build technology that creates real impact.
+<br/>
 
-<a href="mailto:faizalba74@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Connect-Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,50:0F766E,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:111827&height=80&section=footer" width="100%"/>
 
 </div>
